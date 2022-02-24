@@ -205,8 +205,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: CHEN
-  first_name: XIN
+  last_name: Chen
+  first_name: [Xin, X.]
 
   style: apa
   locale: en

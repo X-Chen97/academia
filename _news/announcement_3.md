@@ -1,7 +1,9 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2019-07-01
+end:
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Graduated from SJTU🎊! I received my Bachelor of Science (Honor) degree in Materials Science and Engineering. \\
+My graduation thesis is about **density functional theory (DFT) analysis of solid-state electrolytes**.

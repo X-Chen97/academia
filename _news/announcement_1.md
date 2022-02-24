@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2015-09-01
+end:
 inline: true
 ---
 
-A simple inline announcement.
+Started undergraduate study at [SJTU](https://en.sjtu.edu.cn/)
