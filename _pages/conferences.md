@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /presentations/
-title:  Presentations
+permalink: /conferences/
+title:  Conferences
 description: Some of my posters and oral presentations.
 years: [2022]
 nav: true
